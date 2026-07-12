@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Pratham 👋
 
-<!--
-**prathamkumarr/prathamkumarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** | CS Graduate (2025) | Turning messy data into decisions.
 
-Here are some ideas to get you started:
+I build end-to-end analytics projects — cleaning and exploring data in **Python**,
+running analysis in **PostgreSQL**, reporting in **Excel**, and visualizing in **Tableau**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tools I work with
+`Python (pandas)` · `SQL` · `PostgreSQL` · `MySQL` · `Excel` · `Tableau` · `Git`
+
+###  Featured Projects
+- **[RFM Customer Segmentation](https://github.com/prathamkumarr/RFM-Customer-Segmentation)** — Segmented 5,853 customers from 1M+ transactions into 11 groups, surfacing £1.39M in recoverable at-risk revenue. *(Python → PostgreSQL → Excel → Tableau + AI insights)*
+- **[US Airline Delay Analysis](https://github.com/prathamkumarr/Analyzing-Airline-Delays)** — Analyzed 1.15M flights; found 70%+ of delays are airline-controllable.
+- **[Zomato Bangalore Analysis](https://github.com/prathamkumarr/Zomato-Bangalore-Analysis)** — Cleaned 51K listings to 12K unique restaurants, catching a key data-quality issue.
+
+###  Reach me
+[LinkedIn](https://www.linkedin.com/in/pratham-kumar-13b712319) · [Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/vizzes)
